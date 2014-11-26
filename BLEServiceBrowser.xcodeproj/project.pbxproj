@@ -181,7 +181,7 @@
 				ORGANIZATIONNAME = "Bluetooth SIG";
 				TargetAttributes = {
 					62566EC316FC4F540093A54F = {
-						DevelopmentTeam = CG5APR59V4;
+						DevelopmentTeam = BSM53SVXL7;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
 								enabled = 1;
